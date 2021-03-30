@@ -2,7 +2,7 @@
 int main()  
 {  
     int num1, num2;  
-    int sum, sub, mult, mod;  
+    int sum, sub, mult;  
     float div;  
   
      
